@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+✨ [Shreepad Hangari](https://shreepadhangari.me)
+♾️ [Math](https://math.shreepadhangari.me)
+🕉️ [Vedanta](https://vedanta.shreepadhangari.me)
+📖 [Math Education](https://mathedu.shreepadhangari.me)
+🌌 [Universe](https://universe.shreepadhangari.me)
+🌿 [AI](https://ai.shreepadhangari.me)
+
 <!--
 **advaitashankara/advaitashankara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
